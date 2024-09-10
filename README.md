@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Everyone, this is pradheep, a guy who is passionate about computer science<br>An aspiring full stack developer<br>Currently learning nodeJs<br> Looking for contributions
+Hey everyone! 🌟 I'm Pradheep, a passionate computer science enthusiast and an aspiring full stack developer. 💻✨ Currently diving deep into Node.js and eager to enhance my skills. 🚀 If you're working on exciting projects or looking for contributions, I'd love to connect and collaborate! Let's build something amazing together. 🤝🔥
 
 
 ## 🌐 Socials:
